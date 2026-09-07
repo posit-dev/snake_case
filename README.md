@@ -20,6 +20,10 @@ The main goal is to help you carve out time to create a new project (or big feat
 
 Free! We'll cover your flights, 2-3 nights of accommodation (up to $250/night), and provide food and drinks during the event. Please note that our budget is tight, so if you or your company can cover (some of the costs) will help us invite more folks.
 
+## Code of conduct
+
+All attendees are bound by the [code of conduct](CODE_OF_CONDUCT.md)
+
 ## Why is Posit doing this?
 
 This event is funded by Posit, and you might wonder why we're doing this. We're a public benefit company (PBC) whose mission is to build free and open source software for data science, scientific research, and technical communication. Historically, we've worked mostly in R, but we also want to help data folks in Python. This event is our attempt to be useful by funding an in person event that will cross-fertilise communities that we hang out in, and help us to identify interesting areas to support in the future.
